@@ -35,6 +35,8 @@
    ```bash
    git clone https://github.com/kaele-rise/transportation_theory.git
    cd transportation_theory
+   
+---
 
 ### Формат файла для загрузки
 
